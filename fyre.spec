@@ -1,5 +1,5 @@
 Summary:	GTK+2-based explorer for iterated chaotic functions
-Summary(pl):	Oparta na GTK+ przegl±darka iterowanych funkcji chaotycznych
+Summary(pl.UTF-8):   Oparta na GTK+ przeglÄ…darka iterowanych funkcji chaotycznych
 Name:		fyre
 Version:	1.0.0
 Release:	0.1
@@ -22,12 +22,12 @@ de Jong map in a fixed-function pipeline with an interactive GTK+
 frontend and a command line interface for easy and efficient rendering
 of high-resolution, high quality images.
 
-%description -l pl
-Fyre to narzêdzie do tworzenia sztuki obliczeniowej w oparciu o
+%description -l pl.UTF-8
+Fyre to narzÄ™dzie do tworzenia sztuki obliczeniowej w oparciu o
 histogramy iterowanych funkcji chaotycznych. Aktualnie implementuje
-odwzorowanie Petera de Jonga w potoku funkcji sta³ych z interaktywnym
-frontendem GTK+ oraz interfejsem linii poleceñ do ³atwego i wydajnego
-renderowania obrazów wysokiej rozdzielczo¶ci z wysok± jako¶ci±.
+odwzorowanie Petera de Jonga w potoku funkcji staÅ‚ych z interaktywnym
+frontendem GTK+ oraz interfejsem linii poleceÅ„ do Å‚atwego i wydajnego
+renderowania obrazÃ³w wysokiej rozdzielczoÅ›ci z wysokÄ… jakoÅ›ciÄ….
 
 %prep
 %setup -q
