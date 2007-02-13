@@ -1,5 +1,5 @@
 Summary:	GTK+2-based explorer for iterated chaotic functions
-Summary(pl.UTF-8):   Oparta na GTK+ przeglądarka iterowanych funkcji chaotycznych
+Summary(pl.UTF-8):	Oparta na GTK+ przeglądarka iterowanych funkcji chaotycznych
 Name:		fyre
 Version:	1.0.0
 Release:	0.1
